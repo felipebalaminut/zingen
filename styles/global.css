@@ -51,6 +51,8 @@ html {
   color: var(--text-color-primary);
 
   overflow-x: hidden;
+
+  scroll-behavior: smooth;
 }
 
 body {
@@ -100,7 +102,7 @@ a:hover {
   color: transparent;
 }
 
-ul[role-list] {
+ul li {
   list-style: none; /* tirar os pontos da lista */
 }
 
