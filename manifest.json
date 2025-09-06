@@ -1,0 +1,16 @@
+{
+  "short_name": "zingen",
+  "name": "Zingen - A simple music player",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#000000",
+  "description": "Download Zingen",
+  "icons": [
+    {
+      "src": "assets/icons/MicrophoneStage.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
